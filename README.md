@@ -1,4 +1,4 @@
-# laravel-accessor-and-mutator
+# Laravel Accessor and Mutator Example
 
 What is Accessors ? 
 Accessors create a dummy attribute on the object which you can access as if it were a database column. So if your database has user table and it has FirstName and LastName coloumn and you need to get full name then it will be like.
